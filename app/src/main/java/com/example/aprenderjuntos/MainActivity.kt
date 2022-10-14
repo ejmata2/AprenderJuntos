@@ -42,7 +42,7 @@ fun AprenderJuntosUI() {
             modifier = Modifier
                 .fillMaxWidth()
                 .wrapContentWidth(Alignment.CenterHorizontally)
-                .wrapContentHeight(Alignment.Top)
+               .wrapContentHeight(Alignment.Top)
         )
         Text(
             text = "Jetpack Compose tutorial",
